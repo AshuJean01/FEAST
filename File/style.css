@@ -40,7 +40,6 @@ input[type="submit"]{
     margin-left: 3pc;
     width: 10pc;
 }
-/*
 @media (max-width: 768px) {
     .form-container{
         padding: 20px;
@@ -53,13 +52,4 @@ input[type="submit"]{
         font-size: 20px;
     }
 }
-    */
-
-    @keyframes spin {
-        from{
-            transform: rotate(0deg);
-        }
-        to{
-            transform: rotate(360beg);
-        }
-    }
+  
